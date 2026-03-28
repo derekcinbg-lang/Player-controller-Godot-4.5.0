@@ -1,3 +1,0 @@
-Change the script location on the player scene before you do anything alse
-
-this is my first template so i am trying some stuff like this
