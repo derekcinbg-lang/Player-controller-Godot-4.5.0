@@ -19,8 +19,8 @@ const fov_change = 1.5
 var gravity = 9.8
 
 # Camera movement varriables
-@onready var head = $Head
-@onready var camera = $Head/Camera3D
+@onready var head = $head
+@onready var camera = $head/Camera3D
 
 # mouse not visble
 func _ready():
