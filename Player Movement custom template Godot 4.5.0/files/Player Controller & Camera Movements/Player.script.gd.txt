@@ -1,3 +1,5 @@
 Change the script location on the player scene before you do anything alse
 
 this is my first template so i am trying some stuff like this
+
+also make sure your input map in project has left, right, forward, backward, sprint, and jump
